@@ -1,0 +1,5 @@
+# Dependensi
+/node_modules
+
+# Berkas konfigurasi
+.env
