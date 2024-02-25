@@ -11,9 +11,10 @@ Aplikasi ini adalah sebuah platform backend sederhana yang dibangun dengan mengg
 * Clone repositori ini ke komputer lokal Anda
 * Buka terminal dan navigasikan ke direktori aplikasi
 * Jalankan npm install untuk menginstal semua dependensi
+* Impor database psu.sql yang ada pada folder database
 
 ### 2. Menjalankan Aplikasi:
-* Jalankan aplikasi dengan perintah node app.js atau npm start
+* Jalankan aplikasi dengan perintah "npm run dev"
 * Aplikasi akan berjalan di http://localhost:3000
 
 ### 3. Penggunaan API:
